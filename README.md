@@ -1,2 +1,2 @@
 # testing_ipmr
-A quick test out the ipmr package
+A quick test of the ipmr package
